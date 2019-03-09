@@ -35,8 +35,8 @@ a {
     position: relative;
     background-color: white;
     height: 80px;
-    margin-top: 30px;
-    padding-left: 15%;
+    margin-top: 7px;
+    /* padding-left: 15%; */
     padding-right: 15%;
 }
 
@@ -52,6 +52,23 @@ a {
 }
 #about{
     clear: both;
+    margin-top: 20px;
+    /* margin-left: auto;
+    margin-right: auto; */
+}
+#aboutLine {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-bottom-style: solid;
+    border-bottom-color: #cccccc;
+}
+
+#copyright {
     margin-left: auto;
     margin-right: auto;
+}
+#footer {
+    background-color: #666666;
+    height: 40px;
+    width: 100%;
 }
